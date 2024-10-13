@@ -134,3 +134,4 @@ venv/
 android/ 
 ios/ 
 .bundle/ 
+.vscode/
